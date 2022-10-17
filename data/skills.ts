@@ -1,0 +1,27 @@
+export const allSkills = [
+  {
+    name: "HTML",
+    slug: "html",
+    color: "#e44d26",
+    link: "https://www.w3.org/html",
+  },
+  { name: "CSS", slug: "css", color: "#379ad6", link: "https://www.w3.org/Style/CSS/Overview.en.html" },
+  { name: "JavaScript", slug: "js", color: "#f0db4f", link: "https://www.javascript.com" },
+  { name: "TypeScript", slug: "ts", color: "#007acc", link: "https://www.typescriptlang.org" },
+  { name: "Vue", slug: "vue", color: "#3fb984", link: "https://vuejs.org" },
+  { name: "React", slug: "react", color: "#61dbfb", link: "https://reactjs.org" },
+  { name: "SCSS", slug: "scss", color: "#ce679a", link: "https://sass-lang.com" },
+  {
+    name: "Next.js",
+    slug: "nextjs",
+    color: "#000",
+    link: "https://nextjs.org",
+  },
+  { name: "Node.js", slug: "nodejs", color: "#6da75d", link: "https://nodejs.org" },
+  { name: "PostgreSQL", slug: "postgresql", color: "#035976", link: "https://www.postgresql.org" },
+  { name: "MongoDB", slug: "mongodb", color: "#4db33d", link: "https://www.mongodb.com" },
+  { name: "Git", slug: "git", color: "#f1502f", link: "https://git-scm.com" },
+  { name: "Flutter", slug: "flutter", color: "#21759B", link: "https://flutter.dev" },
+  { name: "Kotlin", slug: "kotlin", color: "#2a044a", link: "https://kotlinlang.org" },
+  { name: "Go", slug: "go", color: "#0abfbc", link: "https://go.dev" },
+] as const;

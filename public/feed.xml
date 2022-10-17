@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Zaid Mukaddam</title>
+        <link>https://undefined</link>
+        <description>Hi, I'm Zaid - front-end developer, freelancer, blogger, new technologies enthusiast, enjoy my website!</description>
+        <lastBuildDate>Mon, 17 Oct 2022 08:05:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Zaid Mukaddam</generator>
+        <language>en</language>
+        <image>
+            <title>Zaid Mukaddam</title>
+            <url>https://undefined/regular-android-icon-192x192.png</url>
+            <link>https://undefined</link>
+        </image>
+        <copyright>2022 Zaid Mukaddam</copyright>
+        <atom:link href="https://undefined/feed" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 UI/UX tips that you should know - forms]]></title>
+            <link>https://undefined/blog/10-ui-ux-tips-that-you-should-know-forms</link>
+            <guid>10-ui-ux-tips-that-you-should-know-forms</guid>
+            <pubDate>Sat, 19 Mar 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Forms allow you to collect valuable information from users, so you should make them as good as possible 📈]]></description>
+            <enclosure url="https://undefined//img/posts/10-ui-ux-tips-that-you-should-know-forms/thumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How I built my personal website?]]></title>
+            <link>https://undefined/blog/how-i-built-my-personal-website</link>
+            <guid>how-i-built-my-personal-website</guid>
+            <pubDate>Fri, 25 Feb 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Which technologies have I used? What made me start a blog? What do I plan on posting here? Answers are here ✨]]></description>
+            <enclosure url="https://undefined//img/posts/how-i-built-my-personal-website/thumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

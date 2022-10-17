@@ -1,0 +1,35 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zaid Mukaddam",
+    "home_page_url": "https://undefined",
+    "description": "Hi, I'm Zaid - front-end developer, freelancer, blogger, new technologies enthusiast, enjoy my website!",
+    "icon": "https://undefined/regular-android-icon-192x192.png",
+    "author": {
+        "name": "Zaid Mukaddam",
+        "url": "https://undefined"
+    },
+    "items": [
+        {
+            "id": "10-ui-ux-tips-that-you-should-know-forms",
+            "url": "https://undefined/blog/10-ui-ux-tips-that-you-should-know-forms",
+            "title": "10 UI/UX tips that you should know - forms",
+            "summary": "Forms allow you to collect valuable information from users, so you should make them as good as possible 📈",
+            "image": "https://undefined//img/posts/10-ui-ux-tips-that-you-should-know-forms/thumbnail.jpg",
+            "date_modified": "2022-03-19T18:30:00.000Z",
+            "author": {
+                "name": "Zaid Mukaddam"
+            }
+        },
+        {
+            "id": "how-i-built-my-personal-website",
+            "url": "https://undefined/blog/how-i-built-my-personal-website",
+            "title": "How I built my personal website?",
+            "summary": "Which technologies have I used? What made me start a blog? What do I plan on posting here? Answers are here ✨",
+            "image": "https://undefined//img/posts/how-i-built-my-personal-website/thumbnail.jpg",
+            "date_modified": "2022-02-25T18:30:00.000Z",
+            "author": {
+                "name": "Zaid Mukaddam"
+            }
+        }
+    ]
+}
