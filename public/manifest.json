@@ -3,7 +3,7 @@
   "short_name": "zaidbuilds.tech",
   "description": "Hi, I'm Zaid - front-end developer, blogger, new technologies enthusiast, enjoy my website!",
   "background_color": "#F7F1F3",
-  "theme_color": "#855B52",
+  "theme_color": "#abe338",
   "start_url": "/?source=pwa",
   "display": "standalone",
   "icons": [
